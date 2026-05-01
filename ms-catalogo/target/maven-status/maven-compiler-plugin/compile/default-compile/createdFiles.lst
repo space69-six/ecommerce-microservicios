@@ -1,0 +1,6 @@
+com\ecommerce\ms_catalogo\GlobalExceptionHandler.class
+com\ecommerce\ms_catalogo\ProductoController.class
+com\ecommerce\ms_catalogo\ProductoRepository.class
+com\ecommerce\ms_catalogo\Application.class
+com\ecommerce\ms_catalogo\ProductoService.class
+com\ecommerce\ms_catalogo\Producto.class
